@@ -62,6 +62,10 @@ body {
     overflow: hidden;   /* image does not overlap the container when zoomed */
   }
 
+#cover-text, #cover-text h2 {
+    color: #fff;
+}
+
   #hero-image {
       height: 600px;
       width: 100%;
@@ -89,3 +93,4 @@ body {
         /* the image will scale up by 10% */
     }
 }
+
