@@ -158,3 +158,9 @@ hr  {
     width: 100%;
     margin: 5px 0;
 }
+.right-about-heading h2 {
+    text-align: right;
+}
+.right-about-heading p {
+    text-align: right;
+}
